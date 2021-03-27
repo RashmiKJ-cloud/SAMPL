@@ -7,7 +7,7 @@ public class ContactTest {
 	@Test
 	public void createcontact() {
 		System.out.println("create testi");
-		
+		System.out.println("go green");
 		System.out.println("testing continuosly");
 	}
 	
