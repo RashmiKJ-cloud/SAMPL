@@ -13,13 +13,16 @@ public class ContactTest {
 	@Test
 	public void Login() {
 		System.out.println("create testin");
+		System.out.println("testing continuosly");
 	}
+	
 	
 
 	@Test
 	public void Test() {
 		System.out.println("create testing");
 	}
+	
 	
 	
 	
